@@ -67,3 +67,4 @@ DROP COLUMN OwnerAddress,
              TaxDistrict,
              PropertyAddress,
              SalesDate;
+
